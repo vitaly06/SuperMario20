@@ -1,0 +1,6 @@
+dema: 6 
+god: 2 
+dema good: 4 
+der: 1 
+demaf: 1 
+test: 1
